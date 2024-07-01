@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=ShawnZeng1996&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShawnZeng1996&theme=github" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShawnZeng1996&theme=github" width="24%" />
