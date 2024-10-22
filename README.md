@@ -14,16 +14,11 @@ I'm a **Computer Science graduate** from Harbin Institute of Technology with nea
 ### 🌱 Mbti
 I have an ITSP-A-C personality type; I enjoy solitude but do not reject communication.
 <style>
-.mbti {
-  background-color: rgba(0, 0, 0, .05);
-  padding: 10px;
-  margin: 10px 0; }
+
   .mbti img {
-    width: 160px; }
+     }
   .mbti .mbti-info .mbti-name {
-    padding: 0 10px;
-    font-weight: bold;
-    position: relative; }
+     }
   .mbti .mbti-info .mbti-link {
     line-height: 14px;
     font-size: 12px;
@@ -46,9 +41,9 @@ I have an ITSP-A-C personality type; I enjoy solitude but do not reject communic
 .flex { display: flex; }
 .flex-1 { flex: 1; }
 </style>
-<div class="mbti flex">
-    <img src="mbti/ISTP.svg" alt="ISTP">
-    <div class="mbti-info flex-1">
+<div style="background-color: rgba(0, 0, 0, .05);padding: 10px;margin: 10px 0;display: flex;">
+    <img src="mbti/ISTP.svg" alt="ISTP" style="width: 160px;">
+    <div style="padding: 0 10px;font-weight: bold;position: relative;flex: 1;">
         <div class="mbti-name">ISTP-A-C<a class="mbti-link" href="https://www.16personalities.com/ch/ISTP-%E4%BA%BA%E6%A0%BC" target="_blank">See More</a></div>
         <div class="mbti-per flex">
             <div class="mbti-percent-wrap flex-1">
