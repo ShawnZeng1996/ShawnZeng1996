@@ -13,73 +13,46 @@ I'm a **Computer Science graduate** from Harbin Institute of Technology with nea
 
 ### 🌱 Mbti
 I have an ITSP-A-C personality type; I enjoy solitude but do not reject communication.
-<style>
 
-  .mbti img {
-     }
-  .mbti .mbti-info .mbti-name {
-     }
-  .mbti .mbti-info .mbti-link {
-    line-height: 14px;
-    font-size: 12px;
-    margin-left: 10px;
-    font-weight: normal;
-    text-decoration: underline; }
-  .mbti .mbti-info .mbti-per {
-    text-align: right;
-    align-items: center; }
-  .mbti .mbti-info .mbti-percent-wrap {
-    background-color: rgba(0, 0, 0, .1);
-    height: 8px;
-    margin: 0 10px; }
-  .mbti .mbti-info .mbti-percent {
-    background-color: rgba(0, 0, 0, .5);
-    height: 8px; }
-  .mbti .mbti-info .mbti-attr-name {
-    width: 72px;
-    text-align: center; }
-.flex { display: flex; }
-.flex-1 { flex: 1; }
-</style>
 <div style="background-color: rgba(0, 0, 0, .05);padding: 10px;margin: 10px 0;display: flex;">
     <img src="mbti/ISTP.svg" alt="ISTP" style="width: 160px;">
     <div style="padding: 0 10px;font-weight: bold;position: relative;flex: 1;">
-        <div class="mbti-name">ISTP-A-C<a class="mbti-link" href="https://www.16personalities.com/ch/ISTP-%E4%BA%BA%E6%A0%BC" target="_blank">See More</a></div>
-        <div class="mbti-per flex">
-            <div class="mbti-percent-wrap flex-1">
-                <div class="mbti-percent" style="width: 80%"></div>
+        <div class="mbti-name">ISTP-A-C<a style="line-height: 14px;font-size: 12px;margin-left: 10px;font-weight: normal;text-decoration: underline;" href="https://www.16personalities.com/ch/ISTP-%E4%BA%BA%E6%A0%BC" target="_blank">See More</a></div>
+        <div style="display: flex;text-align: right;align-items: center;">
+            <div style="flex: 1;background-color: rgba(0, 0, 0, .1);height: 8px;margin: 0 10px;">
+                <div style="background-color:rgba(0, 0, 0, .5);height: 8px;width: 80%"></div>
             </div>
-            <div class="mbti-attr-name">Introverted</div>
+            <div style="width: 72px;text-align: center;">Introverted</div>
         </div>
-        <div class="mbti-per flex">
-            <div class="mbti-percent-wrap flex-1">
-                <div class="mbti-percent" style="width: 44%"></div>
+        <div style="display: flex;text-align: right;align-items: center;">
+            <div style="flex: 1;background-color: rgba(0, 0, 0, .1);height: 8px;margin: 0 10px;">
+                <div style="background-color:rgba(0, 0, 0, .5);height: 8px;width: 44%"></div>
             </div>
-            <div class="mbti-attr-name">Sensing</div>
+            <div style="width: 72px;text-align: center;">Sensing</div>
         </div>
-        <div class="mbti-per flex">
-            <div class="mbti-percent-wrap flex-1">
-                <div class="mbti-percent" style="width: 48%"></div>
+        <div style="display: flex;text-align: right;align-items: center;">
+            <div style="flex: 1;background-color: rgba(0, 0, 0, .1);height: 8px;margin: 0 10px;">
+                <div style="background-color:rgba(0, 0, 0, .5);height: 8px;width: 48%"></div>
             </div>
-            <div class="mbti-attr-name">Thinking</div>
+            <div style="width: 72px;text-align: center;">Thinking</div>
         </div>
-        <div class="mbti-per flex">
-            <div class="mbti-percent-wrap flex-1">
-                <div class="mbti-percent" style="width: 20%"></div>
+        <div style="display: flex;text-align: right;align-items: center;">
+            <div style="flex: 1;background-color: rgba(0, 0, 0, .1);height: 8px;margin: 0 10px;">
+                <div style="background-color:rgba(0, 0, 0, .5);height: 8px;width: 20%"></div>
             </div>
-            <div class="mbti-attr-name">Perceiving</div>
+            <div style="width: 72px;text-align: center;">Perceiving</div>
         </div>
-        <div class="mbti-per flex">
-            <div class="mbti-percent-wrap flex-1">
-                <div class="mbti-percent" style="width: 20%"></div>
+        <div style="display: flex;text-align: right;align-items: center;">
+            <div style="flex: 1;background-color: rgba(0, 0, 0, .1);height: 8px;margin: 0 10px;">
+                <div style="background-color:rgba(0, 0, 0, .5);height: 8px;width: 20%"></div>
             </div>
-            <div class="mbti-attr-name">Assertive</div>
+            <div style="width: 72px;text-align: center;">Assertive</div>
         </div>
-        <div class="mbti-per flex">
-            <div class="mbti-percent-wrap flex-1">
-                <div class="mbti-percent" style="width: 100%"></div>
+        <div style="display: flex;text-align: right;align-items: center;">
+            <div style="flex: 1;background-color: rgba(0, 0, 0, .1);height: 8px;margin: 0 10px;">
+                <div style="background-color:rgba(0, 0, 0, .5);height: 8px;width: 100%"></div>
             </div>
-            <div class="mbti-attr-name">Cold</div>
+            <div style="width: 72px;text-align: center;">Cold</div>
         </div>
     </div>
 </div>
