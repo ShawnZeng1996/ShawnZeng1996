@@ -12,7 +12,9 @@ I'm a **Computer Science graduate** from Harbin Institute of Technology with nea
 - **Product Management**: Agile methodologies, team leadership, market analysis
 
 ### 🌱 Mbti
-I have an <img src="mbti/ISTP.svg" alt="ISTP" style="width: 30px;">ITSP-A-C personality type; I enjoy solitude but do not reject communication.
+
+<img src="mbti/ISTP.svg" alt="ISTP" style="width: 160px;" align="right">
+I have an ITSP-A-C personality type; I enjoy solitude but do not reject communication.
 Feel free to contact me via [Email](mailto:admin@shawnzeng.com) or [my blog](https://shawnzeng.com).
 
 
