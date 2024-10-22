@@ -15,12 +15,9 @@ I'm a **Computer Science graduate** from Harbin Institute of Technology with nea
 
 ### 🌱 Mbti
 <picture><img src="mbti/ISTP.svg" alt="ISTP" width="120" align="left"></picture>
-<p>I have an ITSP-A-C personality type; I enjoy solitude but do not reject communication.</p>
+
+I have an ITSP-A-C personality type; I enjoy solitude but do not reject communication.
 Feel free to contact me via [Email](mailto:admin@shawnzeng.com) or my [blog](https://shawnzeng.com).
-
-
-
-
 
 <!--
 **ShawnZeng1996/ShawnZeng1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
